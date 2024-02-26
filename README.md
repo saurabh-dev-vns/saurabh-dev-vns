@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi! My name is Saurabh Shanai😄
+========================================================================================================================================
 
-<!--
-**saurabdev/saurabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I am a MERN STACK Developer based in UP, India.
+<br/>
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev) 
+<br/>
+
+### Socials
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saurabh-sahani-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabh-sahani-dev?trk=profile-badge">Saurabh Sahani</a></div>
+              
+<div id="badges">
+  <a href="https://www.linkedin.com/in/saurabh-sahani-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
