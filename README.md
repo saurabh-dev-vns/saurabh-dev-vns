@@ -1,4 +1,4 @@
-Hi! My name is Saurabh Shanai😄
+Hi! My name is Saurabh Sahani😄
 ========================================================================================================================================
 
 🌍  I am a MERN STACK Developer based in UP, India.
@@ -10,16 +10,10 @@ Hi! My name is Saurabh Shanai😄
 <br/>
 
 ### Socials
-<!DOCTYPE html>
-<html>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="saurabh-sahani-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/saurabh-sahani-dev?trk=profile-badge">Saurabh Sahani</a></div>
-              
+        
 <div id="badges">
   <a href="https://www.linkedin.com/in/saurabh-sahani-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</html>
