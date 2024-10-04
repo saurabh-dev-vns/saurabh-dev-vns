@@ -10,6 +10,8 @@ Hi! My name is Saurabh Sahani😄
 <br/>
 
 ### Github Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-dev-vns&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> 
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabh-dev-vns&show_icons=true&theme=radical)
 
 ### Most Used Languages 
