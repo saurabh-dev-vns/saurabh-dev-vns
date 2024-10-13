@@ -18,6 +18,6 @@ Hi, I'm Saurabh Sahani<br><br>Aspiring Full Stack Developer | 2nd Year College S
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/saurabh-dev-vns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+![](https://komarev.com/ghpvc/?username=saurabh-dev-vns)
 
 
