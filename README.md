@@ -18,6 +18,5 @@ Hi, I'm Saurabh Sahani<br><br>Aspiring Full Stack Developer | 2nd Year College S
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saurabh-dev-vns&icon=0&color=0)](https://visitcount.itsvg.in)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
