@@ -1,7 +1,6 @@
+[![An image of @saurabhdevvns's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhdevvns)](https://holopin.io/@saurabhdevvns)
 # 💫 About Me:
 Hi, I'm Saurabh Sahani<br><br>Aspiring Full Stack Developer | 2nd Year College Student
-## Hacktober:
-[![An image of @saurabhdevvns's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhdevvns)](https://holopin.io/@saurabhdevvns)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saurabh_001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-sahani-dev) 
